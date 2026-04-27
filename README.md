@@ -14,3 +14,5 @@ Public breakdown of Conjure Dex, a Flutter progressive web app and digital encyc
 
 ## Data Structure
 - Work in progress
+
+Copyright © 2025, 2026 Caoimhín Arnott and Jack Mehegan. All rights reserved.
